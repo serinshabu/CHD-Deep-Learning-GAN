@@ -83,7 +83,6 @@ chd-deep-learning/
 ├── chd_gan.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── results/
 │   └── graph.png
 └── research/
